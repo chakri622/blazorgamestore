@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "VKpvrbJTG47/yqvF9RMy/32FH0jRdti1BplGZetJFhI=",
+  "Source": "BlazorStore.Frontend",
+  "BasePath": "_content/BlazorStore.Frontend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BlazorStore.Frontend\\wwwroot",
+      "Source": "BlazorStore.Frontend",
+      "ContentRoot": "E:\\dotnetprojects\\BlazorStore\\BlazorStore.Frontend\\wwwroot\\",
+      "BasePath": "_content/BlazorStore.Frontend",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\dotnetprojects\\BlazorStore\\BlazorStore.Frontend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorStore.Frontend.styles.css",
+      "SourceId": "BlazorStore.Frontend",
+      "SourceType": "Computed",
+      "ContentRoot": "E:\\dotnetprojects\\BlazorStore\\BlazorStore.Frontend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/BlazorStore.Frontend",
+      "RelativePath": "BlazorStore.Frontend.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "E:\\dotnetprojects\\BlazorStore\\BlazorStore.Frontend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorStore.Frontend.styles.css"
+    },
+    {
+      "Identity": "E:\\dotnetprojects\\BlazorStore\\BlazorStore.Frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorStore.Frontend.bundle.scp.css",
+      "SourceId": "BlazorStore.Frontend",
+      "SourceType": "Computed",
+      "ContentRoot": "E:\\dotnetprojects\\BlazorStore\\BlazorStore.Frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/BlazorStore.Frontend",
+      "RelativePath": "BlazorStore.Frontend.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "E:\\dotnetprojects\\BlazorStore\\BlazorStore.Frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorStore.Frontend.bundle.scp.css"
+    },
+    {
+      "Identity": "E:\\dotnetprojects\\BlazorStore\\BlazorStore.Frontend\\wwwroot\\app.css",
+      "SourceId": "BlazorStore.Frontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\dotnetprojects\\BlazorStore\\BlazorStore.Frontend\\wwwroot\\",
+      "BasePath": "_content/BlazorStore.Frontend",
+      "RelativePath": "app.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\app.css"
+    }
+  ]
+}
